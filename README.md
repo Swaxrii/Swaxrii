@@ -1,5 +1,5 @@
 # Hi there, I'm Swaxrii 👋
-##### Frontend Developer & Systems Management Enthusiast
+### Frontend Developer & Systems Management Enthusiast
 
 ---
 
@@ -33,3 +33,11 @@
 ![Git](https://img.shields.io/badge/Git-F3F4F6?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=181717)
 ![VS Code](https://img.shields.io/badge/VS_Code-F3F4F6?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Swaxrii&theme=nord&hide_border=true" alt="Swaxrii Activity Streak" />
+</p>

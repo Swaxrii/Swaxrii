@@ -1,43 +1,40 @@
-# Hi there, I'm Swaxrii 👋
-### Frontend Developer & Systems Management Enthusiast
 
----
+<img src="./assets/swaxrii-banner.png" alt="Swaxrii — Full Stack Web Developer" width="100%" />
 
-## 🚀 About Me
+# Hi, I'm Swaxrii 👋
 
-- 💻 **Focus:** Frontend Development & Servers
-- 🌐 **Web Stack:** Next.js, Astro & Tailwind CSS
-- 🖥️ **Systems:** Linux Administration & Server Management
-- ⚙️ **Automation:** Python Scripts & Discord Bots
+**Full Stack Web Developer**
 
----
+I build modern, responsive, and performant web applications with a focus on clean code, intuitive design, and maintainable architecture.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-#### **Frontend & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-F3F4F6?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-F3F4F6?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F3F4F6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-F3F4F6?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![Next.js](https://img.shields.io/badge/Next.js-F3F4F6?style=for-the-badge&logo=nextdotjs&logoColor=000000)
-![Astro](https://img.shields.io/badge/Astro-F3F4F6?style=for-the-badge&logo=astro&logoColor=FF5D01)
+**Frontend & Frameworks**
 
-#### **Backend & Databases**
-![Python](https://img.shields.io/badge/Python-F3F4F6?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-F3F4F6?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Discord.js](https://img.shields.io/badge/Discord.js-F3F4F6?style=for-the-badge&logo=discord&logoColor=5865F2)
+![HTML5](https://img.shields.io/badge/HTML5-101114?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-101114?style=for-the-badge&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-101114?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101114?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Astro](https://img.shields.io/badge/Astro-101114?style=for-the-badge&logo=astro&logoColor=BC52EE)
+![Next.js](https://img.shields.io/badge/Next.js-101114?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 
-#### **Design & Environment**
-![Linux](https://img.shields.io/badge/Linux-F3F4F6?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Figma](https://img.shields.io/badge/Figma-F3F4F6?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-F3F4F6?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=181717)
-![VS Code](https://img.shields.io/badge/VS_Code-F3F4F6?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+**Backend & Database**
 
----
+![Python](https://img.shields.io/badge/Python-101114?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-101114?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Supabase](https://img.shields.io/badge/Supabase-101114?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
-## 📊 GitHub Stats
+**Tools & Workflow**
 
-<p align="left">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Swaxrii&theme=nord&hide_border=true" alt="Swaxrii Activity Streak" />
-</p>
+![Git](https://img.shields.io/badge/Git-101114?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-101114?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-101114?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Figma](https://img.shields.io/badge/Figma-101114?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+## What I Do
+
+- **Frontend Development** — Responsive, accessible, and modern interfaces.
+- **Backend Development** — APIs, databases, and application logic.
+- **Software Architecture** — Clean, scalable, and maintainable code.
+- **UI/UX Design** — Intuitive and visually consistent experiences.
+- **Optimization** — Performance, SEO, and accessibility.
